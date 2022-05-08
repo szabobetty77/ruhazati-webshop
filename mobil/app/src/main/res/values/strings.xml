@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Clothes Shop</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+    <string name="user_name">User Name</string>
+    <string name="email_address">Email address</string>
+    <string name="password_again">Password again</string>
+    <string name="cancel">Cancel</string>
+    <string name="phone_number">Phone number</string>
+    <string name="address">Address</string>
+    <string name="customer">Customer</string>
+    <string name="seller">Seller</string>
+    <string name="description">Description</string>
+    <string name="item_info">Item info</string>
+    <string name="price">Price</string>
+    <string name="cart">Cart</string>
+    <string name="login_as_guest">Login As Guest</string>
+    <string name="delete">Delete</string>
+    <string-array name="phone_mode">
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+    <string-array name="shopping_item_names">
+        <item>Sheriff costume</item>
+        <item>Suit</item>
+        <item>Bee costume</item>
+        <item>Ballerina dress</item>
+        <item>Batwomen</item>
+        <item>Little red dress</item>
+        <item>Loose set</item>
+        <item>Knitted jumper</item>
+        <item>Pink cool set</item>
+        <item>Dino costume</item>
+    </string-array>
+    <string-array name="shopping_item_desc">
+        <item>For really cool cats</item>
+        <item>For elegant days</item>
+        <item>For carnivals</item>
+        <item>Dance with me</item>
+        <item>For hard cat girls</item>
+        <item>For special occasions</item>
+        <item>For loose cats</item>
+        <item>For pretty cats</item>
+        <item>For coool cat girls</item>
+        <item>For party</item>
+    </string-array>
+    <array name="shopping_item_rates">
+        <item>4.5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>4</item>
+        <item>3</item>
+        <item>3</item>
+        <item>2.7</item>
+        <item>4.7</item>
+        <item>5</item>
+        <item>4</item>
+    </array>
+    <array name="shopping_item_images">
+        <item>@drawable/cat1</item>
+        <item>@drawable/cat2</item>
+        <item>@drawable/cat3</item>
+        <item>@drawable/cat4</item>
+        <item>@drawable/cat5</item>
+        <item>@drawable/cat6</item>
+        <item>@drawable/cat7</item>
+        <item>@drawable/cat8</item>
+        <item>@drawable/cat9</item>
+        <item>@drawable/cat10</item>
+    </array>
+    <array name="shopping_item_price">
+        <item>100 CatCoins</item>
+        <item>150 CatCoins</item>
+        <item>500 CatCoins</item>
+        <item>300 CatCoins</item>
+        <item>180 CatCoins</item>
+        <item>90 CatCoins</item>
+        <item>100 CatCoins</item>
+        <item>70 CatCoins</item>
+        <item>170 CatCoins</item>
+        <item>120 CatCoins</item>
+    </array>
+</resources>
